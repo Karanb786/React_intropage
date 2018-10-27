@@ -1,6 +1,6 @@
 # React_intropage #
 ## Installation instruction ##
-# Windows:#
+# Windows:
 ## Installing dependencies ##
 ** You will need Node, the React Native command line interface, Python2, a JDK, and Android Studio. While you can use any editor of your choice to develop your app, you will need to install Android Studio in order to set up the necessary tooling to build your React Native app for Android. **
 ## Node, Python2, JDK ##
