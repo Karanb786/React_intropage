@@ -1,0 +1,3 @@
+rootProject.name = 'Blurb_official'
+
+include ':app'
